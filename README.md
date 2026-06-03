@@ -47,11 +47,7 @@ Performed the following:
 - Cohort Retention Analysis
 - Product Performance Analysis
 - KPI Tracking
-- ## Dashboard
 
-# Executive Dashboard
-
-![Dashboard](Users\hp\OneDrive\Cohort_Analysis_project\MAIN_DASHBOARD.png)
 
 # Key Insights
 
@@ -76,12 +72,11 @@ Performed the following:
 
   ## Project Structure
 
-├── Dataset
-├── SQL Queries
-├── Excel Files
 ├── Dashboard
+├── Dataset
 ├── Images
-└── README.md
+├── README.md
+└── SQL Queries
 
 # Conclusion
 

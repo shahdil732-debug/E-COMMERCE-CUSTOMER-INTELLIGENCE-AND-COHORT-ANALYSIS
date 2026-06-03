@@ -1,4 +1,4 @@
-# Prpject title
+# Project title
 
 E-commerce Customer Intelligence & Retention Analysis
 

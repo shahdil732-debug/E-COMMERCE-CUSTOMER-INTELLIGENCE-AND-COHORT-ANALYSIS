@@ -54,7 +54,6 @@ Performed the following:
 - Returning customers contributed 88% of total revenue.
 - Electronics generated the highest average order value.
 - Customers purchasing within 7 days of signup showed higher retention.
-- Revenue peaked during seasonal promotions.
 
 # Recommendations
 

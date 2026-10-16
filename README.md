@@ -51,14 +51,15 @@ Performed the following:
 
 # Key Insights
 
-- Returning customers contributed 88% of total revenue.
-- Electronics generated the highest average order value.
-- Customers purchasing within 7 days of signup showed higher retention.
+- 18 Millions of revenue contributed by Premium customers amoung customer segments.
+- January 22.18% and February 20.24% showed highest retention rate.
+- the product category Sports , Books and Beauty drives the most quantity sold.
+
 
 # Recommendations
 
-- Increase focus on customer retention campaigns.
-- Promote high-performing product categories.
+- improve retention rate through customer satisfaction and market campaigns with strong focus on premium customers.
+- Promote high-performing product categories including sports, Books and beauty.
 - Reduce time-to-first-purchase through onboarding incentives.
 
   # SQL Concepts Used
